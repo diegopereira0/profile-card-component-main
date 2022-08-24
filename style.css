@@ -20,9 +20,10 @@ ul {
 body {
   font-family: "Kumbh Sans", sans-serif;
   color: #717277;
-  background: url("./images/bg-pattern-top.svg") no-repeat left -455%,
-    url("./images/bg-pattern-bottom.svg") no-repeat right 655%
+  background: url("./images/bg-pattern-top.svg") no-repeat left -25rem,
+    url("./images/bg-pattern-bottom.svg") no-repeat right 50rem
       hsl(185, 75%, 39%);
+  background-size: 70rem;
   display: flex;
   justify-content: center;
   align-items: center;
